@@ -8,7 +8,7 @@ Aplikasi To-Do List 🌸 desktop dengan database MySQL. Fitur utama: countdown r
 
 ---
 
-## 🚀 Fitur Utama
+## Fitur Utama
 
 * **GUI:** Tampilan daftar tugas kustom menggunakan `JList` dan `ListCellRenderer` menghindari tampilan tabel yang kaku.
 * **Database MySQL:** Semua tugas disimpan, di-update, dan dibaca dari database MySQL menggunakan JDBC.
@@ -20,7 +20,7 @@ Aplikasi To-Do List 🌸 desktop dengan database MySQL. Fitur utama: countdown r
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 * **Java**
 * **Java Swing** (untuk komponen GUI)
@@ -29,7 +29,7 @@ Aplikasi To-Do List 🌸 desktop dengan database MySQL. Fitur utama: countdown r
 
 ---
 
-## 📂 Penjelasan Struktur Kode
+## Penjelasan Struktur Kode
 
 Proyek ini dibagi menjadi 4 kelas utama yang saling bekerja sama:
 
@@ -64,7 +64,7 @@ Ini adalah kelas utama yang dilihat oleh pengguna (View dan Controller).
 
 ---
 
-## Output
+## 5. Output
 <img width="993" height="792" alt="Screenshot 2025-11-10 034104" src="https://github.com/user-attachments/assets/f298c4d7-fc7b-4acb-b1d5-4fd3f7537122" />
 <img width="995" height="788" alt="Screenshot 2025-11-10 034125" src="https://github.com/user-attachments/assets/30664414-c6b1-4eee-8fef-b3a565d1f9a9" />
 <img width="988" height="789" alt="Screenshot 2025-11-10 034145" src="https://github.com/user-attachments/assets/0f95c91d-5b14-41ea-9663-1d3032cc8c30" />
